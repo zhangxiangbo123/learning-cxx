@@ -5,3 +5,6 @@
 
 .*/
 !/.github/
+
+/exercises/
+*.exe
